@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+body {
+  background-color: #f6f7f9; /* El fondo gris suave de tu diseño */
+  font-family: var(--font-sans);
+}
